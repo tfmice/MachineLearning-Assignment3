@@ -1,0 +1,17 @@
+1. 
+Discrete random variables :
+- neightbourhood_group
+- neighbourhood
+- room_type
+- price
+- number_of_reviews
+- last_review
+- calculated_host_listings_count
+- availability_365
+Variabel-variabel diatas ini merupakan variabel diskrit karena setiap variabel memiliki nilai yang jelas / distinct
+
+Continuous random variables :
+- latitude
+- longitude
+- reviews per month
+Ketiga variabel ini merupakan variabel kontinu karena setiap variabel memiliki nilai yang jika dapat dihitung terus-terusan sampai panjang sekali. Contoh: longitude 100, jika dihitung lebi detail bisa menjadi 100.1, 100.11, 100.111, dst.
